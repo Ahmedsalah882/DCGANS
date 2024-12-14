@@ -1,5 +1,5 @@
 
-# In this porject, you will do:
+# In this porject, we will do:
 # * Build a Generative Adversarial Network (GAN) in PyTorch.
 # * Load pre-trained model parameters in PyTorch.
 # * Train and test your GAN in PyTorch.
